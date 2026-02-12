@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MindEase: Mental Health Companion",
+  "description": "A calming, AI-powered mental health support portal offering mood tracking, personalized resources, and emotional support through a digital companion interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
